@@ -3,7 +3,7 @@ Transcript accuumulation rates in the early Caenorhabditis elegans embryo
 Priya Sivaramakrishnan, Cameron Watkins and John Isaac Murray 
 
 Manuscript link: https://www.science.org/doi/10.1126/sciadv.adi1270
-/Users/sivaramakp/Downloads/sciadv.adi1270-f5.jpg
+![alt text](https://github.com/p-sivaramakrishnan/C-elegans-rate-analysis/blob/main/sciadv.adi1270-f5.jpg?raw=true)
 ------------------------------------------------------------------------------------------------------------------------------
   
 This includes code to rerun analysis associated with our paper Transcript accuumulation rates in the early Caenorhabditis elegans embryo
